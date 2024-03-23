@@ -16,7 +16,7 @@ fn main() {
     // tad::tiposAbstratosDados::tadVector_3();
     // exerciciosSalaAula::Aula08032024::principal()
     // exerciciosSalaAula::exercicioCalculoAreaCirculo::calculoAreaCirculo()
-    exerciciosSalaAula::Aula14032024::encontraMaximo()
+    exerciciosSalaAula::Aula14032024::contador()
 }
 
 fn helloWorld(){
